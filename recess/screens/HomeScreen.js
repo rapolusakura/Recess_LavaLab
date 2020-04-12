@@ -67,7 +67,7 @@ export default function HomeScreen() {
       </View>
       <Text> </Text>
       <View style={styles.availableNow}>
-          <Text style={styles.availableText}>     PLAYGROUNGS</Text>
+          <Text style={styles.availableText}>     PLAYGROUNDS</Text>
           <ScrollView style={styles.scrollView} horizontal={true} showsHorizontalScrollIndicator={false}>
             <Text>     </Text>
             <View>
